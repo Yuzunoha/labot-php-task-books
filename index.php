@@ -6,7 +6,7 @@ $js = json_decode(file_get_contents('/var/www/labot/labot-php-task-books-json/ja
 ?>
 
 <h1>PHPの参考書</h1>
-<table>
+<table border>
 <tr>
 <th>title</th>
 <th>author</th>
@@ -24,7 +24,7 @@ foreach ($php as $book) {
 </table>
 
 <h1>JavaScriptの参考書</h1>
-<table>
+<table border>
 <tr>
 <th>title</th>
 <th>author</th>
