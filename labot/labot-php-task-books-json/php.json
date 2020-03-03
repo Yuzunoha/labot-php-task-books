@@ -1,47 +1,47 @@
 [
   {
     "title": "誰もがあきらめずにすむPHP超入門",
-    "Author": "西沢夢路",
+    "author": "西沢夢路",
     "publisher": "SBクリエイティブ"
   },
   {
     "title": "いきなりはじめるPHP～ワクワク・ドキドキの入門教室",
-    "Author": "谷藤賢一",
+    "author": "谷藤賢一",
     "publisher": "リックテレコム"
   },
   {
     "title": "スラスラわかるPHP",
-    "Author": "志田仁美",
+    "author": "志田仁美",
     "publisher": "翔泳社"
   },
   {
     "title": "独習PHP第3版",
-    "Author": "山田祥寛",
+    "author": "山田祥寛",
     "publisher": "翔泳社"
   },
   {
     "title": "詳細！PHP7+MySQL入門ノート",
-    "Author": "西沢夢路",
+    "author": "西沢夢路",
     "publisher": "ソーテック社"
   },
   {
     "title": "よくわかるPHPの教科書【PHP7対応版】",
-    "Author": "たにぐちまこと",
+    "author": "たにぐちまこと",
     "publisher": "マイナビ出版"
   },
   {
     "title": "気づけばプロ並みPHP改訂版–ゼロから作れる人になる!",
-    "Author": "谷藤賢一",
+    "author": "谷藤賢一",
     "publisher": "リックテレコム"
   },
   {
     "title": "PHPフレームワークLaravel入門",
-    "Author": "掌田津耶乃",
+    "author": "掌田津耶乃",
     "publisher": "秀和システム"
   },
   {
     "title": "プログラミングPHP第3版",
-    "Author": "西沢夢路",
+    "author": "西沢夢路",
     "publisher": "オライリージャパン"
   }
 ]
