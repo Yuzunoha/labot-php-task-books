@@ -1,0 +1,5 @@
+
+手順
+1. labot/labot-php-task-books-jsonをホームディレクトリ直下に格納する。
+2. localhost/labot-php-task-books/index.php を読み込むと全部表示する
+3. クエリパラメタに対応させる
