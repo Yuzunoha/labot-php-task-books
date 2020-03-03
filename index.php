@@ -1,5 +1,8 @@
 <?php
 
-$ret = file_get_contents('/var/www/labot/labot-php-task-books-json/php.json');
+$php = file_get_contents('/var/www/labot/labot-php-task-books-json/php.json');
+$js = file_get_contents('/var/www/labot/labot-php-task-books-json/javascript.json');
 
-print_r($ret);
+echo "<pre>";
+print_r($php);
+print_r($js);
