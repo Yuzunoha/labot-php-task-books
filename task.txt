@@ -1,5 +1,7 @@
 PHP課題「json読み込み」
 
-http://localhost/labot-php-task-books にアクセスすると、期待動作1の画面がでるようにApache+PHPを実装してください。
+http://localhost/labot-php-task-books.php にアクセスすると、期待動作1の画面がでるようにApache+PHPを実装してください。
+成果物はPHPファイル「labot-php-task-books.php」とします。
+
 表示する書籍データはzipファイル「labot」を/var/www/に展開し、jsonファイルを下記の例のように格納してください。
 /var/www/labot/labot-php-task-books-json/php.json
