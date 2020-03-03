@@ -1,6 +1,6 @@
 PHP課題「json読み込み」
 
-http://localhost/labot-php-task-books.php にアクセスすると、期待動作1.pngの画面がでるようにApache+PHPを実装してください。
+http://localhost/labot-php-task-books.php にアクセスすると、期待動作1.pngの画面が表示されるようにApache+PHPを実装してください。
 成果物はPHPファイル「labot-php-task-books.php」とします。
 
 表示する書籍データはjsonファイルが下記のように格納されている前提とします。
